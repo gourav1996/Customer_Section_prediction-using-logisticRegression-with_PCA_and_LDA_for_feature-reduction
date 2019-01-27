@@ -1,12 +1,12 @@
 # PCA
 PCA ( Principal Component Analysis)
-It is unsupervised 
+<br>It is unsupervised</br> 
 Used for:
-1)Noise Filter
-2)Visualization
-3)Feature Extraction
-4)Gene data Analysis
-5)  etc....
+<br>1)Noise Filter</br>
+<br>2)Visualization</br>
+<br>3)Feature Extraction</br>
+<br>4)Gene data Analysis</br>
+<br>5)  etc....</br>
 
 <br>It Identify pattern in data and Detect the correlation between variables</br>
 
